@@ -1,4 +1,7 @@
 {
   "name": "Await a JavaScript Promise in an async Function with the await Operator",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }

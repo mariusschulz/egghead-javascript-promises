@@ -1,4 +1,7 @@
 {
   "name": "Create a New Promise in JavaScript with the Promise Constructor",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }

@@ -1,4 +1,7 @@
 {
   "name": "Convert a Callback-Based JavaScript Function to a Promise-Based One",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }

@@ -1,4 +1,7 @@
 {
   "name": "Execute Cleanup Logic in a JavaScript Promise Chain with Promise.finally()",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }

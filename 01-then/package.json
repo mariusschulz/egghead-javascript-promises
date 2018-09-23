@@ -1,4 +1,7 @@
 {
   "name": "Create a Promise Chain in JavaScript with Promise.then()",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }

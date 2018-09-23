@@ -1,4 +1,7 @@
 {
   "name": "Create a Resolved Promise in JavaScript with Promise.resolve()",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }

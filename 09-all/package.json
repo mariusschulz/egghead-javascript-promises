@@ -1,4 +1,7 @@
 {
   "name": "Wait for Multiple JavaScript Promises to Settle with Promise.all()",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }

@@ -1,4 +1,7 @@
 {
   "name": "Wait for the Fastest JavaScript Promise to Settle with Promise.race()",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  }
 }
