@@ -1,5 +1,5 @@
 {
-  "name": "Catch Errors in a JavaScript Promise Chain with Promise.catch()",
+  "name": "Catch Errors in a JavaScript Promise Chain with Promise.prototype.catch()",
   "description": "",
   "devDependencies": {
     "parcel-bundler": "^1.10.0"

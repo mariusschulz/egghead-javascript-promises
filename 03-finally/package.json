@@ -1,5 +1,5 @@
 {
-  "name": "Execute Cleanup Logic in a JavaScript Promise Chain with Promise.finally()",
+  "name": "Execute Cleanup Logic in a JavaScript Promise Chain with Promise.prototype.finally()",
   "description": "",
   "devDependencies": {
     "parcel-bundler": "^1.10.0"
