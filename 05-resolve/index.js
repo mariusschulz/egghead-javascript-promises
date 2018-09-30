@@ -1,3 +1,6 @@
+// Required to make jQuery work within CodeSandbox
+const $ = window.jQuery || require("jquery");
+
 const API_URL = "https://starwars.egghead.training/";
 
 const output = document.getElementById("output");
