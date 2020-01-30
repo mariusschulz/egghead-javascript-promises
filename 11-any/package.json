@@ -1,0 +1,8 @@
+{
+  "name": "wait-for-the-fastest-javascript-promise-to-be-fulfilled-with-promiseany",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  },
+  "keywords": []
+}

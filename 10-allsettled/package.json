@@ -1,0 +1,8 @@
+{
+  "name": "wait-for-multiple-javascript-promises-to-settle-with-promiseallsettled",
+  "description": "",
+  "devDependencies": {
+    "parcel-bundler": "^1.10.0"
+  },
+  "keywords": []
+}
